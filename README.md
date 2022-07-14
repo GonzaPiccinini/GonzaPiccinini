@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GonzaPiccinini
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning python/javascript
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: gonzipiccinini@gmail.com
 
 <!---
