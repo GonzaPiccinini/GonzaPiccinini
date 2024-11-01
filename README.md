@@ -1,24 +1,16 @@
-<div align="center">
-  <img height="450" src="https://res-console.cloudinary.com/pichicloud/media_explorer_thumbnails/905b5c90e65f90eddee37311bd375cb7/detailed"  />
-</div>
+
+![Gonza Piccinini](https://github.com/user-attachments/assets/a10ae49e-9758-4f1d-9263-8b35f228c144)
+###
+
+<h1 align="left">Hi there! 👋</h1>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-</div>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<h1 align="center">Hi there! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi! I'm Gonzalo Piccinini, a software developer passionate about building high-impact, scalable applications with TypeScript, Node and React and Go<br><br>I bring a proactive and collaborative mindset, constantly driven to understand project goals deeply and align solutions to meet them. Known for my analytical approach and adaptability, I thrive on simplifying complex challenges into clear, effective solutions. I'm committed to continuous learning and technical excellence, always integrating new ideas to strengthen my work and my team’s goals. I’m excited to contribute to teams that value innovation, impact, and collaboration, making me a valuable fit for ambitious tech projects.</p>
+<p align="left">Hi! I'm Gonzalo Piccinini, a software developer focused on building high-impact, scalable applications with TypeScript, Node and React and Go<br><br>I bring a proactive and collaborative mindset, constantly driven to understand project goals deeply and align solutions to meet them. Known for my analytical approach and adaptability, I thrive on simplifying complex challenges into clear, effective solutions. I'm committed to continuous learning and technical excellence, always integrating new ideas to strengthen my work and my team’s goals. I’m excited to contribute to teams that value innovation, impact, and collaboration, making me a valuable fit for ambitious tech projects.</p>
 
 ###
 
