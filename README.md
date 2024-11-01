@@ -33,11 +33,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/GonzaPiccinini/GonzaPiccinini/output/snake.svg" alt="Snake animation" />
-
-###
