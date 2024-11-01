@@ -1,6 +1,6 @@
-
-![Gonza Piccinini](https://github.com/user-attachments/assets/a10ae49e-9758-4f1d-9263-8b35f228c144)
+![Gonza Piccinini (2)](https://github.com/user-attachments/assets/1b244f64-43d4-4b68-a922-f5c79c82d91c)
 ###
+
 
 <h1 align="left">Hi there! 👋</h1>
 
