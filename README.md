@@ -1,4 +1,4 @@
-![Gonza Piccinini (4)](https://github.com/user-attachments/assets/fca88025-3c49-460d-90eb-70c40c4102f5)
+![Gonza Piccinini (4)](https://github.com/user-attachments/assets/7ef36187-46ea-4359-9ede-2bf1081829f3)
 ###
 
 
