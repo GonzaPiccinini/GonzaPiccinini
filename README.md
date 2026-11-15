@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hi! I'm Gonzalo Piccinini, a software developer focused on building high-impact, scalable applications with TypeScript, Node and React and Go<br><br>I bring a proactive and collaborative mindset, constantly driven to understand project goals deeply and align solutions to meet them. Known for my analytical approach and adaptability, I thrive on simplifying complex challenges into clear, effective solutions. I'm committed to continuous learning and technical excellence, always integrating new ideas to strengthen my work and my team’s goals. I’m excited to contribute to teams that value innovation, impact, and collaboration, making me a valuable fit for ambitious tech projects.</p>
+<p align="left">Hi! I'm Gonzalo Piccinini, a software developer focused on building high-impact, scalable applications with TypeScript, Node and React and Python<br><br>I bring a proactive and collaborative mindset, constantly driven to understand project goals deeply and align solutions to meet them. Known for my analytical approach and adaptability, I thrive on simplifying complex challenges into clear, effective solutions. I'm committed to continuous learning and technical excellence, always integrating new ideas to strengthen my work and my team’s goals. I’m excited to contribute to teams that value innovation, impact, and collaboration, making me a valuable fit for ambitious tech projects.</p>
 
 ###
 
